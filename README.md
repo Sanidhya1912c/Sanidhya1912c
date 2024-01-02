@@ -2,4 +2,4 @@
 - 👀 I’m interested in web developmment
 - 🌱 I’m currently learning the backend of web dev
 - 💞️ I’m looking to collaborate on project's frontend 
-- 📫 How to reach me: you can DM me on instagram on Sanidhya1912c
+- 📫 How to reach me: you can DM me on instagram on its_saniChaudhary
