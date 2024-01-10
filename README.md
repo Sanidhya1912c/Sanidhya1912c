@@ -1,4 +1,4 @@
-### Hey, I'm Miraya 👋 
+### Hey, I'm Sanidhya 👋 
 
 I'm a 15-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
