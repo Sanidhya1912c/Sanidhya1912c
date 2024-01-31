@@ -18,7 +18,7 @@ I'm currently learning the fullstack development, my journey involves both build
 
 - Kaguya Sama Love Is War is my favorite anime.
 - As a kid, I wanted to be an rich.
-- I love using Linux after switching from Windows.
+- I love using Windows after switching from Windows to linix.
 
 ## 📫 Contact
 
