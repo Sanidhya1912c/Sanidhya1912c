@@ -1,6 +1,6 @@
 ### Hey, I'm Sanidhya 👋 
 
-I'm a 15-year-old developer based in India, and I'm passionate about crafting digital experiences. 
+I'm a 15-year-old developer from in India, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://www.google.com) to learn more about me.
 - Explore my [blog](https://google.com) where I share insights and learnings.
@@ -16,7 +16,7 @@ I'm currently learning the fullstack development, my journey involves both build
 
 ## ✨ Fun Facts 
 
-- Kaguya Sama Love Is War is my favorite anime.
+- Bongo stray dogs is my favorite anime.
 - As a kid, I wanted to be rich.
 - I love using Windows after switching from Windows to linix.
 
