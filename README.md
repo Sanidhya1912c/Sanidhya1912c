@@ -1,6 +1,6 @@
 ### Hey, I'm Sanidhya 👋 
 
-I'm a 15-year-old developer from in India, and I'm passionate about crafting digital experiences. 
+I'm a 15-year-old developer from India, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://www.google.com) to learn more about me.
 - Explore my [blog](https://google.com) where I share insights and learnings.
@@ -8,17 +8,17 @@ I'm a 15-year-old developer from in India, and I'm passionate about crafting dig
 
 ## 🔭 Current Endeavors 
 
-I'm currently learning the fullstack development, my journey involves both building and learning. Here's what I'm currently focused on:
+I'm currently learning full-stack development, my journey involves both building and learning. Here's what I'm currently focused on:
 
-- I'm engaged in exciting fullstack projects.
+- I'm engaged in exciting full-stack projects.
 - I'm exploring different tools and libraries to enhance my skill set.
 - I'm an early riser, always driven and constantly learning in the tech world.
 
 ## ✨ Fun Facts 
 
-- Bongo stray dogs is my favorite anime.
+- Bongo Stray Dogs is my favorite anime.
 - As a kid, I wanted to be rich.
-- I love using Windows after switching from Windows to linix.
+- I love using Windows after switching from Windows to Linux.
 
 ## 📫 Contact
 
