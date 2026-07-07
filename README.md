@@ -1,6 +1,6 @@
 ### Hey, I'm Sanidhya 👋 
 
-I'm a 15-year-old developer from India, and I'm passionate about crafting digital experiences. 
+I'm a 16-year-old developer from India, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://www.google.com) to learn more about me.
 - Explore my [blog](https://google.com) where I share insights and learnings.
