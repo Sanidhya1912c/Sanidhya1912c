@@ -1,10 +1,6 @@
 ### Hey, I'm Sanidhya 👋 
 
-I'm a 16-year-old developer from India, and I'm passionate about crafting digital experiences. 
-
-- Check out my [website](https://www.google.com) to learn more about me.
-- Explore my [blog](https://google.com) where I share insights and learnings.
-- Stay updated with my journey on [Instagram](https://www.instagram.com/its_sanichaudhary), [LinkedIn](https://www.linkedin.com/) 
+I'm a 17-year-old developer from India, and I'm passionate about crafting digital experiences. 
 
 ## 🔭 Current Endeavors 
 
@@ -22,5 +18,5 @@ I'm currently learning full-stack development, my journey involves both building
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/its_sanichaudhary/) or [LinkedIn](https://www.linkedin.com/). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/igsani._09/) 
  
